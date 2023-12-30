@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8×óÛË1
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ıªöÛË1
+L	java:S106"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8®×óÛË1
+L	java:S106"+Replace this use of System.out by a logger.(âÂ•õşÿÿÿÿ8¾×óÛË1
+G	java:S106+"+Replace this use of System.out by a logger.(–’Áæ8ä×óÛË1
+G	java:S1064"+Replace this use of System.out by a logger.(Ûışï8ó×óÛË1
+L	java:S106:"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8ó×óÛË1
+G	java:S106E"+Replace this use of System.out by a logger.(³¿ñè8Ú–ÈŞË1
+L	java:S106l"+Replace this use of System.err by a logger.(çüÌüÿÿÿÿ8ƒØóÛË1

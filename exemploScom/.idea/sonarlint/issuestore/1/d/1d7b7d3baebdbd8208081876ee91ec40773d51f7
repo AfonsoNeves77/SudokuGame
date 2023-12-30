@@ -1,0 +1,19 @@
+
+7
+java:S1220""Move this file to a named package.8üµƒàË1
+[
+java:S1226$">Introduce a new variable instead of reusing the parameter "a".(Š¶Õ÷8üµƒàË1
+L	java:S106"+Replace this use of System.err by a logger.(±œÓÁüÿÿÿÿ8Œ¶ƒàË1
+G	java:S106"+Replace this use of System.out by a logger.(Ì£÷ˆ8Œ¶ƒàË1
+J
+java:S1172"(Remove this unused method parameter "b".(º×ÈÅúÿÿÿÿ8Œ¶ƒàË1
+L	java:S106"+Replace this use of System.out by a logger.(Ô€õ€ıÿÿÿÿ8Œ¶ƒàË1
+G	java:S106#"+Replace this use of System.out by a logger.(’Œß§8Œ¶ƒàË1
+G	java:S106("+Replace this use of System.out by a logger.(×­¢8Œ¶ƒàË1
+G	java:S106,"+Replace this use of System.out by a logger.(„Ä³8Œ¶ƒàË1
+G	java:S1060"+Replace this use of System.out by a logger.(Â˜­•8Œ¶ƒàË1
+F	java:S1067"+Replace this use of System.out by a logger.(Ü²÷#8Œ¶ƒàË1
+G	java:S1069"+Replace this use of System.out by a logger.(´ §©8Œ¶ƒàË1
+G	java:S106?"+Replace this use of System.err by a logger.(Ä‹Ğï8Œ¶ƒàË1
+G	java:S106A"+Replace this use of System.out by a logger.(Ì£÷ˆ8Œ¶ƒàË1
+L	java:S106M"+Replace this use of System.err by a logger.(çßÿÿÿÿÿ8Œ¶ƒàË1
